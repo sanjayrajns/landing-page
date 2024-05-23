@@ -4,16 +4,6 @@
 
 Welcome to the Landing Page Project! This project is a simple, visually appealing landing page built using HTML, CSS, JavaScript, Three.js, and GSAP.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project is a modern landing page designed to showcase the use of basic web technologies along with powerful libraries like Three.js for 3D graphics and GSAP for animations. The goal is to create an engaging user experience with smooth animations and dynamic content.
