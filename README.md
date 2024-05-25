@@ -10,8 +10,6 @@ Welcome to the Landing Page Project! This project is a simple, visually appealin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -23,6 +21,7 @@ This project is a modern landing page designed to showcase the use of basic web 
 - Interactive 3D elements using Three.js
 - Smooth animations and transitions with GSAP
 - Clean and modern UI
+- Morph effect while scrolling 
 
 ## Technologies Used
 
@@ -31,6 +30,7 @@ This project is a modern landing page designed to showcase the use of basic web 
 - **JavaScript**: For interactivity and dynamic content
 - **Three.js**: For 3D graphics
 - **GSAP (GreenSock Animation Platform)**: For animations
+
 
 ## Installation
 
