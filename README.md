@@ -31,6 +31,10 @@ This project is a modern landing page designed to showcase the use of basic web 
 - **Three.js**: For 3D graphics
 - **GSAP (GreenSock Animation Platform)**: For animations
 
+![photo](https://github.com/sanjayrajns/landing-page/assets/157554250/a751a212-93a5-4bf8-a88f-2d8a72fcc22a)
+
+
+
 
 ## Installation
 
